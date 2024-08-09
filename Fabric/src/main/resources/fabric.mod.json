@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "betterbeaconplacement",
+  "version": "3.4",
+
+  "name": "Better Beacon Placement",
+  "description": "Easily place beacon bases by right-clicking the beacon with a mineral block plus other tweaks.",
+  "authors": [ "Rick South" ],
+  "contact": {
+    "homepage": "https://serilum.com/mod/better-beacon-placement",
+    "sources": "https://github.com/Serilum/Better-Beacon-Placement",
+    "issues": "https://github.com/Serilum/.issue-tracker/labels/Mod:%20Better%20Beacon%20Placement"
+  },
+
+  "license": "All Right Reserved",
+  "icon": "icon.png",
+
+  "environment": "*",
+  "entrypoints": { "main": [ "com.natamus.betterbeaconplacement.ModFabric" ], "modmenu": [ "com.natamus.betterbeaconplacement.fabric.config.IntegrateModMenu" ] },
+
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric": "*",
+    "minecraft": ">=1.21",
+    "java": ">=21",
+    "collective": ">=7.80"
+  },
+
+  "custom": {
+    "modmenu": {
+      "links": {
+        "Donate <3" : "https://ricksouth.com/donate"
+      }
+    }
+  },
+
+  "contributors": [
+	  " ",
+	  "Thank you very much to my Membership sponsors for supporting the development of this mod!",
+	  " ",
+	  "If you would like to contribute too, check out https://serilum.com/donate.",
+	  " ",
+	  "Membership sponsors:",
+	  " Alister",
+	  " Andrean Olgo",
+	  " aternosorg",
+	  " Cherriesaurus",
+	  " Michael W. S.",
+	  " Nahuel Fernandez",
+	  " Shana Gitnick",
+	  " Tyler Behl"
+  ]
+}
