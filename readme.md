@@ -11,19 +11,19 @@
 <p style="text-align:center"><a href="https://serilum.com/" target="_blank" rel="nofollow"><img src="https://cdn.serilum.com/description/header/header.png" alt="" width="838" height="400"></a></p>
 <p style="text-align:center"><a href="https://curseforge.com/members/serilum/projects" target="_blank" rel="nofollow"><img src="https://workflow.serilum.com/badges/svg/curseforge.svg" width="200"></a> <a href="https://modrinth.com/user/Serilum" target="_blank" rel="nofollow"><img src="https://workflow.serilum.com/badges/svg/modrinth.svg" width="200"></a> <a href="https://patreon.com/serilum" target="_blank" rel="nofollow"><img src="https://workflow.serilum.com/badges/svg/patreon.svg" width="200"></a> <a href="https://youtube.com/@serilum" target="_blank" rel="nofollow"><img src="https://workflow.serilum.com/badges/svg/youtube.svg" width="200"></a></p>
 <p><strong><span style="font-size:24px">Requires the library mod&nbsp;<a style="font-size:24px" href="https://curseforge.com/minecraft/mc-mods/collective" target="_blank" rel="nofollow">Collective</a>.</span></strong><br><br><strong>&nbsp;&nbsp;&nbsp;This mod is part of <span style="color:#008000"><a style="color:#008000" href="https://curseforge.com/minecraft/modpacks/the-vanilla-experience" target="_blank" rel="nofollow">The Vanilla Experience</a></span> modpack and <span style="color:#bf8f6f"><a style="color:#bf8f6f" href="https://curseforge.com/minecraft/mc-mods/serilums-qol-bundle" target="_blank" rel="nofollow">Serilum's Quality of Life Bundle</a></span> mod.</strong><br><span style="font-size:18px">Better Beacon Placement is a minimalistic configurable mod which allows player to easily place beacon bases by right-clicking the beacon with a mineral block. Sneak/crouch+right-clicking places the entire stack in hand. Breaking the beacon will also break all the base blocks and drop them at the beacon's location. Replaced blocks are dropped on top of the beacon.</span><br><br><em>Bedrock won't be replaced.</em><br><br><strong>You may also be interested in <span style="color:#f90"><a style="color:#f90" href="https://curseforge.com/minecraft/mc-mods/better-conduit-placement" rel="nofollow">Better Conduit Placement</a></span>.</strong><br><br><br><strong><span style="font-size:20px">Configurable:</span> <span style="color:#008000;font-size:14px"><a style="color:#008000" href="https://github.com/Serilum/.information/wiki/how-to-configure-mods" rel="nofollow">(&nbsp;how do I configure?&nbsp;)</a></span><br></strong><strong>breakBeaconBaseBlocks</strong>&nbsp;(default = true): If enabled, drops all beacon base blocks when the beacon itself is broken.<strong><br>dropReplacedBlockTopBeacon </strong>(default = true): If enabled, when a mineral block replaces a normal block that block is dropped on top of the beacon.<br><br><br><strong>You can right-click a beacon with a mineral block in hand and it will place it in the next base position:</strong></p>
-<div class="spoiler">
+<details><summary>Show Spoiler</summary>
 <p><picture><img src="https://cdn.serilum.com/projects/better-beacon-placement/a.webp" width="844" height="424"></picture></p>
-</div>
+</details>
 <p>&nbsp;<br><br><strong>You can also sneak+right-click to place an entire stack of mineral blocks:<br></strong></p>
-<div class="spoiler">
+<details><summary>Show Spoiler</summary>
 <p><picture><img src="https://cdn.serilum.com/projects/better-beacon-placement/b.webp" width="840" height="424"></picture></p>
-</div>
+</details>
 <p>&nbsp;<br><br><strong>Configurably you can set to drop the replaced blocks on top of the beacon:<br></strong></p>
-<div class="spoiler">
+<details><summary>Show Spoiler</summary>
 <p><picture><img src="https://cdn.serilum.com/projects/better-beacon-placement/c.webp" width="844" height="426"></picture></p>
-</div>
+</details>
 <p>&nbsp;<br><br><strong>Breaking the beacon block will also break all the base blocks:<br></strong></p>
-<div class="spoiler">
+<details><summary>Show Spoiler</summary>
 <p><picture><img src="https://cdn.serilum.com/projects/better-beacon-placement/d.webp"></picture></p>
-</div>
+</details>
 <p><br>------------------<br><br><span style="font-size:24px"><strong>You may freely use this mod in any modpack, as long as the download remains hosted within the CurseForge or Modrinth ecosystem.</strong></span><br><br><span style="font-size:18px"><a style="font-size:18px;color:#008000" href="https://serilum.com/" rel="nofollow">Serilum.com</a> contains an overview and more information on all mods available.</span><br><br><span style="font-size:14px">Comments are disabled as I'm unable to keep track of all the separate pages on each mod.</span><span style="font-size:14px"><br>For issues, ideas, suggestions or anything else there is the&nbsp;<a style="font-size:14px;color:#008000" href="https://github.com/Serilum/.issue-tracker" rel="nofollow">Github repo</a>. Thanks!</span><span style="font-size:6px"><br><br></span></p>
