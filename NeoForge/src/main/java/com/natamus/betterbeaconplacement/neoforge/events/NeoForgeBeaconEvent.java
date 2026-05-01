@@ -3,9 +3,9 @@ package com.natamus.betterbeaconplacement.neoforge.events;
 import com.natamus.betterbeaconplacement.events.BeaconEvent;
 import com.natamus.collective.functions.WorldFunctions;
 import net.minecraft.world.level.Level;
-import net.neoforged.neoforge.event.entity.player.PlayerInteractEvent;
-import net.neoforged.neoforge.event.level.BlockEvent;
 import net.neoforged.bus.api.SubscribeEvent;
+import net.neoforged.neoforge.event.entity.player.PlayerInteractEvent;
+import net.neoforged.neoforge.event.level.block.BreakBlockEvent;
 
 public class NeoForgeBeaconEvent {
 	@SubscribeEvent
@@ -16,7 +16,7 @@ public class NeoForgeBeaconEvent {
 	}
 	
 	@SubscribeEvent
-	public static void onBlockBreak(BlockEvent.BreakEvent e) {
+	public static void onBlockBreak(BreakBlockEvent e) {
 		Level level = WorldFunctions.getWorldIfInstanceOfAndNotRemote(e.getLevel());
 		if (level == null) {
 			return;
