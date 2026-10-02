@@ -1,4 +1,4 @@
-package com.natamus.betterbeaconplacement.util;
+package com.serilum.betterbeaconplacement.util;
 
 import com.natamus.collective.functions.BlockFunctions;
 import net.minecraft.core.BlockPos;

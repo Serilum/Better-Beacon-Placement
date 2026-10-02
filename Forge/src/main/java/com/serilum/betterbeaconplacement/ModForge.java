@@ -1,8 +1,8 @@
-package com.natamus.betterbeaconplacement;
+package com.serilum.betterbeaconplacement;
 
-import com.natamus.betterbeaconplacement.forge.config.IntegrateForgeConfig;
-import com.natamus.betterbeaconplacement.forge.events.ForgeBeaconEvent;
-import com.natamus.betterbeaconplacement.util.Reference;
+import com.serilum.betterbeaconplacement.forge.config.IntegrateForgeConfig;
+import com.serilum.betterbeaconplacement.forge.events.ForgeBeaconEvent;
+import com.serilum.betterbeaconplacement.util.Reference;
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import net.minecraftforge.common.MinecraftForge;
@@ -32,7 +32,7 @@ public class ModForge {
 	}
 
 	private void loadComplete(final FMLLoadCompleteEvent event) {
-    	MinecraftForge.EVENT_BUS.register(ForgeBeaconEvent.class);
+		MinecraftForge.EVENT_BUS.register(ForgeBeaconEvent.class);
 	}
 
 	private static void setGlobalConstants() {

@@ -1,7 +1,7 @@
-package com.natamus.betterbeaconplacement.events;
+package com.serilum.betterbeaconplacement.events;
 
-import com.natamus.betterbeaconplacement.config.ConfigHandler;
-import com.natamus.betterbeaconplacement.util.Util;
+import com.serilum.betterbeaconplacement.config.ConfigHandler;
+import com.serilum.betterbeaconplacement.util.Util;
 import net.minecraft.core.BlockPos;
 import net.minecraft.tags.BlockTags;
 import net.minecraft.world.InteractionHand;

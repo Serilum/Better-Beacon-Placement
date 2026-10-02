@@ -1,7 +1,7 @@
-package com.natamus.betterbeaconplacement.fabric.config;
+package com.serilum.betterbeaconplacement.fabric.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.betterbeaconplacement.util.Reference;
+import com.serilum.betterbeaconplacement.util.Reference;
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;
 

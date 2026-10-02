@@ -1,7 +1,7 @@
-package com.natamus.betterbeaconplacement.forge.config;
+package com.serilum.betterbeaconplacement.forge.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.betterbeaconplacement.util.Reference;
+import com.serilum.betterbeaconplacement.util.Reference;
 import net.minecraftforge.client.ConfigScreenHandler;
 import net.minecraftforge.fml.ModLoadingContext;
 

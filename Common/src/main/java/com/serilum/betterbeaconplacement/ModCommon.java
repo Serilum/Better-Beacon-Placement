@@ -1,6 +1,6 @@
-package com.natamus.betterbeaconplacement;
+package com.serilum.betterbeaconplacement;
 
-import com.natamus.betterbeaconplacement.config.ConfigHandler;
+import com.serilum.betterbeaconplacement.config.ConfigHandler;
 
 public class ModCommon {
 

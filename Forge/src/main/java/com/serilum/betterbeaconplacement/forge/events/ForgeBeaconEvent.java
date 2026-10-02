@@ -1,6 +1,6 @@
-package com.natamus.betterbeaconplacement.forge.events;
+package com.serilum.betterbeaconplacement.forge.events;
 
-import com.natamus.betterbeaconplacement.events.BeaconEvent;
+import com.serilum.betterbeaconplacement.events.BeaconEvent;
 import com.natamus.collective.functions.WorldFunctions;
 import net.minecraft.world.level.Level;
 import net.minecraftforge.event.entity.player.PlayerInteractEvent;

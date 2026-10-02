@@ -1,7 +1,7 @@
-package com.natamus.betterbeaconplacement;
+package com.serilum.betterbeaconplacement;
 
-import com.natamus.betterbeaconplacement.events.BeaconEvent;
-import com.natamus.betterbeaconplacement.util.Reference;
+import com.serilum.betterbeaconplacement.events.BeaconEvent;
+import com.serilum.betterbeaconplacement.util.Reference;
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import com.natamus.collective.fabric.callbacks.CollectiveBlockEvents;
